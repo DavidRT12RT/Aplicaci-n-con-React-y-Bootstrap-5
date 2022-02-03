@@ -1,0 +1,8 @@
+body {
+    background: #fff;
+    background: linear-gradient(to right, #ffffff, #c4c3bf);
+}
+.bg {
+    background-image: url("../../assets/Login/img/BG.jpg");
+    background-position: 25% 15%;
+}
